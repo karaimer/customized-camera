@@ -1,1 +1,1 @@
-# customized-camera
+# camera-pipeline
