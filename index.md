@@ -13,7 +13,7 @@ This paper describes the customization of the camera processing pipeline of a ma
 #### Publications: ####
 * Karaimer H.C., Khodadad I., Kazemzadeh F., Brown M.S. (2019) "A Customized Camera Imaging Pipeline for Dermatological Imaging", *ISIC Skin Image Analysis Workshop* (at **CVPR`19**), June 2019 [[pdf]](./paper/Karaimer_et_al_2019.pdf) [[bibtex]](./bib/Karaimer_et_al_2019.bib) 
 
-## Code and Data##
+## Code and Data ##
 
 We are not able to share the code for this projet due to a non-disclosure agreement(NDA), but happy to share the data. Please send Hakki Karaimer an email if you are interested in the data. 
 
