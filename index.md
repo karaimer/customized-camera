@@ -15,7 +15,7 @@ This paper describes the customization of the camera processing pipeline of a ma
 
 ## Code and Data ##
 
-We are not able to share the code for this projet due to a non-disclosure agreement (NDA), but happy to share the data. Please send Hakki Karaimer an email if you are interested in the data. 
+Unfortunately, we are not able to share the code for this projet due to a non-disclosure agreement (NDA), but happy to share the data. Please send Hakki Karaimer an email if you are interested in the data. 
 
 ## People ##
 [Hakki Can Karaimer](https://karaimer.github.io/), 	karaimer (at) eecs.yorku.ca
